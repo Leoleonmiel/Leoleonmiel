@@ -25,6 +25,14 @@ Hey there! I'm a 3rd year student in programming specialized in video games prog
 
 ---
 
+## 📊 GitHub Stats
+
+![Leonnel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&hide=html&layout=compact&theme=radical)
+
+---
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leohaml/)
