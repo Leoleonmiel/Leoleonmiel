@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Leonnel%20Hammel%20%7C%20Game%20Developer&fontSize=30&fontColor=FFFFFF&fontAlign=50&desc=Unity%20%7C%20C%23%20%7C%20C++%20%7C%20Design%20Patterns&descSize=18&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Leonnel%20Hammel%20%7C%20Game%20Developer&fontSize=30&fontColor=FFFFFF&fontAlign=50)
 
 ## 👋 About Me
 
