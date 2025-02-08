@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm a passionate **Game Developer** specializing in **C#** and **Unity**. I love writing clean, efficient code and working on exciting projects that push my skills further.
+Hey there! I'm a 3rd year student in programming specialized in video games programming & maths. I love writing clean, efficient code and working on exciting projects that push my skills further.
 
 - 🎮 Game Programming Student at **Creajeux**
 - ⚡ Focused on **game mechanics, physics, and performance optimization**
