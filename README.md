@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Developer&fontSize=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Developer&fontSize=45&fontAlignY=36)
 
 ## 👋 About Me
 
