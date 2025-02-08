@@ -33,11 +33,5 @@ Hey there! I'm a 3rd year student in programming specialized in video games prog
 
 ---
 
-## 📊 GitHub Stats
-
-//![Leonnel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leoleonmiel&show_icons=true&theme=radical)
-
-//![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leoleonmiel&hide=html&layout=compact&theme=radical)
-
 
 
