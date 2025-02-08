@@ -6,7 +6,7 @@ Hey there! I'm a passionate **Game Developer** specializing in **C#** and **Unit
 
 - 🎮 Game Programming Student at **Creajeux**
 - ⚡ Focused on **game mechanics, physics, and performance optimization**
-- 🛠️ Experienced in **C++,C#,C,SFML,Unity, Lua, and Love2D**
+- 🛠️ Experienced in **C++, C#,C , Unity, SFML, Lua, and Love2D**
 - 🚀 Looking for a **game development internship (June - September 2025)**
 
 ---
