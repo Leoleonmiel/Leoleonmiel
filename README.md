@@ -1,11 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Developer&fontSize=45&fontAlignY=36)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Programmer&fontSize=40&fontAlignY=40&reversal=true)
 
 ## 👋 About Me
 
 Hey there! I'm a 3rd year student in programming specialized in video games programming & maths. I love writing clean, efficient code and working on exciting projects that push my skills further.
 
 - 🎮 Game Programming Student at **Creajeux**
-- 🚀 Looking for a **game development internship (June - September 2025)**
+- 🚀 Looking for a **game programmer internship**
 
 ---
 
