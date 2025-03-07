@@ -1,20 +1,16 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Programmer&fontSize=40&fontAlignY=40&reversal=true)
-
 ## 👋 About Me
-
 Hey there! I'm a 3rd year student in programming specialized in video games programming & maths. I love writing clean, efficient code and working on exciting projects that push my skills further.
 
 - 🎮 Game Programming Student at **Creajeux**
 - 🚀 Looking for a **game programmer internship**
-
 ---
 
 ## 🔧 Technologies & Tools
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Love2D](https://img.shields.io/badge/-Love2D-FF69B4?style=for-the-badge&logo=love&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -26,12 +22,8 @@ Hey there! I'm a 3rd year student in programming specialized in video games prog
 ---
 
 ## 📫 Let's Connect!
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leohaml/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=web&logoColor=white)](https://www.lhammel.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonnelhml@gmail.com)
 
 ---
-
-
-
