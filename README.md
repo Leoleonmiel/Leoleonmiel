@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Programmer&fontSize=40&fontAlignY=40&reversal=true)
 ## 👋 About Me
-Hey there! I'm a 3rd year student in programming specialized in video games programming & maths. I love writing clean, efficient code and working on exciting projects that push my skills further.
+Software Engineering Student – Game Programming | Gameplay & Multiplayer Programmer | Unreal | Unity | C++| C#
 
 - 🎮 Game Programming Student at **Creajeux**
 - 🚀 Looking for a **game programmer internship**
