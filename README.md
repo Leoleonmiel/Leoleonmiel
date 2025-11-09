@@ -19,11 +19,3 @@ Software Engineering Student – Game Programming | Tools/Engine & Multiplayer P
 ![Wwise](https://img.shields.io/badge/-Wwise-002F6C?style=for-the-badge&logo=wwise&logoColor=white)
 ![Tiled](https://img.shields.io/badge/-Tiled-FFD700?style=for-the-badge&logo=tiled&logoColor=black)
 
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leohaml/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=web&logoColor=white)](https://www.lhammel.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonnelhml@gmail.com)
-
----
