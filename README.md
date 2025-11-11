@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Programmer&fontSize=40&fontAlignY=40&reversal=true)
 ## 👋 About Me
-Software Engineering Student – Game Programming | Tools/Engine & Multiplayer Programmer | Unreal | Unity | C++| C#
+Software Engineering Student – Game Programming | Tools/Engine & Multiplayer Programmer
 ---
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
