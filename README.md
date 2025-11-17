@@ -1,17 +1,17 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Programmer&fontSize=40&fontAlignY=40&reversal=true)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Leonnel%20Hammel%20|%20Game%20Programmer&fontSize=28&fontAlignY=30&reversal=true)
+
 ## 👋 About Me
-Software Engineering Student – Game Programming | Tools/Engine & Multiplayer
+Software Engineering Student focused on Game Programming.  
+Areas of interest: engine internals, systems programming, multiplayer networking, and tooling.  
 ---
+
 ## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Love2D](https://img.shields.io/badge/-Love2D-FF69B4?style=for-the-badge&logo=love&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SVN](https://img.shields.io/badge/-SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-![FMOD](https://img.shields.io/badge/-FMOD-000000?style=for-the-badge&logo=fmod&logoColor=white)
-![Wwise](https://img.shields.io/badge/-Wwise-002F6C?style=for-the-badge&logo=wwise&logoColor=white)
-![Tiled](https://img.shields.io/badge/-Tiled-FFD700?style=for-the-badge&logo=tiled&logoColor=black)
+
+<p align="center">
+
+| **Languages**            | **Engines**            |
+|--------------------------|-------------------------|
+| C++ (11–20), C#, C       | Unreal Engine, Unity    |
+
+</p>
 
