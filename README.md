@@ -6,11 +6,11 @@ Software Engineering Student – Game Programming | Tools/Engine & Multiplayer
 
 ## 🔧 Technologies & Tools
 
-<p align="center">
+<div align="center">
 
 | **Languages**            | **Engines**            |
 |--------------------------|-------------------------|
 | C++ (11–20), C#, C       | Unreal Engine, Unity    |
 
-</p>
+</div>
 
