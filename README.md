@@ -2,15 +2,14 @@
 
 ## 👋 About Me
 Software Engineering Student – Game Programming | Tools/Engine & Multiplayer  
-
 ---
 
 ## 🔧 Technologies & Tools
 
 <div align="center">
 
-| **Languages**         | **Engines**                 |
-|-----------------------|-----------------------------|
-| C++ (11–20), C#, C    | Unreal Engine, Unity        |
+| **Languages**            | **Engines**            |
+|--------------------------|-------------------------|
+| C++ (11–20), C#, C       | Unreal Engine, Unity    |
 
 </div>
