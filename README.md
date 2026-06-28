@@ -8,6 +8,6 @@ Gameplay & Engine Programmer
 
 | **Languages**            | **Engines**            |
 |--------------------------|-------------------------|
-| C++ , C#, C       | Unreal Engine, Unity    |
+| C++ , C#, C       | Unreal Engine|
 
 </div>
